@@ -4,22 +4,21 @@
 기여자 라이선스 계약(CLA, Contributor License Agreement)에 동의한 
 것으로 보며 이는 여러분이 여러분의 기여를 우리가 사용할 권리를 부여할
 권한을 갖고 있다는 것을 나타냅니다.
-자세한 내용은 여기<https://cla.microsoft.com>를 방문해주세요.
+자세한 내용은 아래 사이트를 방문해주세요.
+<https://cla.microsoft.com>
 
-> Important: when translating text in this repo, please ensure that you do not use machine translation. We will verify translations via the community, so please only volunteer for translations in languages where you are proficient.
+> 중요: 이 저장소(repository)에 있는 텍스트를 번역할 때는 기계 번역을 사용하지 마세요. 커뮤니티를 통해 번역을 검증할 예정이므로 자신이 능숙한 언어로만 번역에 자원해 주세요.
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need
-to provide a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the
-instructions provided by the bot. You will only need to do this once across all repositories using our CLA.
+풀 리퀘스트(pull request)를 제출하실 때, CLA-봇(bot)이 자동으로 여러분이 CLA를 제공해야하는 지와 PR을 적절히 갖췄는 지(예를 들어 라벨과 코멘트 등을 갖췄는 지)를 판단합니다. 해당 봇이 제공하는 안내를 따르시기만 하면 됩니다. 우리 CLA를 사용하는 모든 저장소에서 한 번만 이를 실행하시면 됩니다.
 
-## Code of Conduct
+## 실행 규칙(Code of Conduct)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information read the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+이 프로젝트는 [마이크로소프트 오픈소스 실행 규칙(Microsoft Open Source Code of Conduct)](https://opensource.microsoft.com/codeofconduct/)을 채택하고 있습니다.
+더 상세한 정보는 [실행규칙에 대한 자주하는 질문들(Code of Conduct FAQ)](https://opensource.microsoft.com/codeofconduct/faq/) 참조하시거나 [opencode@microsoft.com](mailto:opencode@microsoft.com)에 추가 질문이나 코멘트를 보내주시면 됩니다.
 
-## Question or Problem?
+## 질문 또는 문제?
 
-Please do not open GitHub issues for general support questions as the GitHub list should be used for feature requests and bug reports. This way we can more easily track actual issues or bugs from the code and keep the general discussion separate from the actual code.
+깃허브 리스트(Github list)는 기능(feature) 요구 및 버그(bug) 리포트 용도이므로 일반적인 지원관련 질문은 깃허브 이슈(Github issues)를 개시하시지 말아주세요. 이런 방식은 우리가 좀 더 손쉽게 코드에서 보이는 실제 이슈들 또는 버그를 추적하기 위한 것으로 실제 코드와 일반 토론을 분리하기 위한 것입니다.
 
 ## Typos, Issues, Bugs and contributions
 
